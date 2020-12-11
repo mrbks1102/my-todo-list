@@ -1,5 +1,5 @@
 import React from 'react'
-import Todoitem from './todoItem'
+import Todoitem from './Todoitem'
 import { Todo } from '../Types'
 
 type Props = {
