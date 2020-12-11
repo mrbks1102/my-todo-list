@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import TodoList from './components/TodoList'
 import TodoInput from './components/TodoInput'
-import { Todo } from './Types'
+import { Todo } from './components/types'
 import './App.css'
 
 const initialState: Todo[] = [

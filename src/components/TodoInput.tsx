@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Todo } from '../Types'
+import { Todo } from './types'
 
 type Props = {
   settodos: React.Dispatch<React.SetStateAction<Todo[]>>
